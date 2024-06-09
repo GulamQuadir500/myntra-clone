@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import logo from "../assets/myntra_logo.png";
-import lens from "../assets/lens.png"
 import { Link, useNavigate } from "react-router-dom";
 import { HiOutlineUser } from "react-icons/hi2";
 import { IoIosHeartEmpty } from "react-icons/io";
