@@ -2,7 +2,6 @@
 
 This is a fully functional e-commerce web application clone of Myntra, built using React. The project mimics the core features of Myntra, including product listing, filtering, detailed product view, and cart functionality.
 
-## Live Link (https://myntraclone007.netlify.app/)
 
 ## Table of Contents
 
